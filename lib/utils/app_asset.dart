@@ -8,4 +8,5 @@ class AppAsset {
   //splash screen(png)
   static const String splash = "${imagePath}splash_img.jpg";
   static const String backGround = "${imagePath}background_img.png";
+  static const String hello = "${imagePath}background_img.png";
 }
